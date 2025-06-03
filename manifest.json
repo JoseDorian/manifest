@@ -1,1 +1,21 @@
-
+{
+  "name": "Liga Crece Veracruz",
+  "short_name": "LigaCrece",
+  "description": "Liga Crece Veracruz: equipos, partidos y estadísticas de baloncesto",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a73e8",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/d/1OrEQ77HKVuqQhZnIihzYA-eObBiVAACL=w1200-h630-p",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/d/1OrEQ77HKVuqQhZnIihzYA-eObBiVAACL=w1200-h630-p",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
